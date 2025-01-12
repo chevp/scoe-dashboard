@@ -9,7 +9,7 @@ This project is intended for use cases where users want to visualize and interac
 
 ## Features
 
-- **SCoe Scene Endpoint**: The server provides an API endpoint that serves the 3D scene data in the `scoe.json` format.
+- **Scoe Scene Endpoint**: The server provides an API endpoint that serves the 3D scene data in the `scoe.json` format.
 - **Qute-based UI**: The UI is built using **Qute** templating engine to display the scenes in an interactive, easy-to-navigate dashboard.
 - **Easy Scene Visualization**: Dynamically visualizes the **scoe-scene** configuration defined in `scoe.json` through Three.js integration.
 - **RESTful API**: Exposes REST endpoints to manage scenes, allowing users to interact with the server and control the content programmatically.
