@@ -3,7 +3,7 @@
 
 ## Overview
 
-Scoe Dashboard is a Java-based server built using the **Quarkus** framework. It serves as an endpoint for **Scoe-scene** requests and provides a visualization interface. The server facilitates rendering and displaying interactive 3D scenes based on the **scoe.json** structure, with an easy-to-use web UI for the users. 
+Scoe Dashboard is a Java-based server built using the **Quarkus** framework. It serves as an endpoint for **Scoe-scene** requests and provides a visualization interface. The server facilitates rendering and displaying interactive 3D scenes based on the **scoe3.json** structure, with an easy-to-use web UI for the users. 
 
 This project is intended for use cases where users want to visualize and interact with 3D scenes, and optionally load data from external sources like a database.
 
